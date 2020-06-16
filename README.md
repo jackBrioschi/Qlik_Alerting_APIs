@@ -22,6 +22,6 @@ For this purpose I wrote a Python script that uses REST APIs in order to:
 * Modify an alert body by inserting a base64 image
 * Push the modification to Alerting server to overwrite the new information.
 
-**At the moment of the work, the APIs were not officially exposed , hence everything done in this document is not officially supported. **
+** At the moment of the work, the APIs were not officially exposed , hence everything done in this document is not officially supported. **
 <br>
 <img src="/img/flow.png" alt="drawing" width="800"/>
